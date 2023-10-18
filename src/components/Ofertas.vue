@@ -75,7 +75,7 @@ export default {
   margin: 10px;
   width: 250px;
   box-sizing: border-box;
-  background-color: #F2F4F4;
+  background-color: #f1f5f9ff;
   padding: 10px;
   text-align: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sutil sombra */

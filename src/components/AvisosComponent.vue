@@ -1,7 +1,7 @@
 <template>
   <div>
     <div v-if="avisos.length > 0">
-      <transition name="fade" mode="out-in" style="background-color: #4caf50;">
+      <transition name="fade" mode="out-in" style="background-color: #3056d3ff;">
         <div :key="currentAviso.id" class="alert">
           <h2 style="color: white;">{{ currentAviso.titulo }}</h2>
           <p style="color: white;">{{ currentAviso.Cuerpo }}</p>
